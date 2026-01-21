@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm K S S Nikhil</h1>
 <h3 align="center">About me</h3>
 
-- 👨‍🎓 I am currently a Senior at University of Wisconsin, Madison and am majoring in Computer Science  
+- 👨‍🎓 I am currently a MS Student at University of Wisconsin, Madison and am majoring in Computer Science  
 
 - 💬 I am a passionate **software developer aiming to build seamless applications**
 
